@@ -1,7 +1,7 @@
 # Pertemuan 07 Fungsi Python
-# Nama: ...
-# NIM: ...
-# Kelas: ...
+# Nama: Nada Syifa Kamilia
+# NIM: 2225250089
+# Kelas: 3B
 
 # 1. TUJUAN
 # Menggunakan fungsi, parameter, return value, dan scope
